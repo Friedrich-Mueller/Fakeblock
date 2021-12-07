@@ -1,2 +1,2 @@
 # Fakeblock
-Repository holding relevant contents for the Project
+Repository holding relevant datasets for the Project
