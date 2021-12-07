@@ -1,3 +1,5 @@
+The zip-file contains three datasets:
+
 # KaggleNews
 
 - Dropped columns Kategorie, Quelle and Art and removed duplicates from the news.csv
