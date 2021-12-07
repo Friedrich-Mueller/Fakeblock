@@ -7,6 +7,7 @@ source: https://www.kaggle.com/kerneler/starter-fake-news-dataset-german-9cc110a
 
 source: https://zenodo.org/record/3375714#.Ya8IHtDMKUk  
 
+## README_GermanFakeNC.txt:  
 
 Description of the .json format:  
 
