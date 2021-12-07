@@ -1,2 +1,7 @@
-# Fakeblock
-Repository holding relevant contents for the Project
+# preprocessed
+
+- contains preprocessed datasets
+
+# raw
+
+- contains raw datasets
